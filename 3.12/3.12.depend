@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1423750334 source:d:\onedrive\code\cpp-how-to-program-solutions\3.12\main.cpp
+	<iostream>
+	"Account.h"
+
+1423750367 source:d:\onedrive\code\cpp-how-to-program-solutions\3.12\account.cpp
+	"Account.h"
+	<iostream>
+
+1423749773 d:\onedrive\code\cpp-how-to-program-solutions\3.12\account.h
+
