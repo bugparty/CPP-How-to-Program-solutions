@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1385316878 source:d:\onedrive\code\cpp-how-to-program-solutions\3.13\main.cpp
+	<iostream>
+
+1423760339 source:d:\onedrive\code\cpp-how-to-program-solutions\3.13\invoice.cpp
+	"invoice.h"
+
+1423760143 d:\onedrive\code\cpp-how-to-program-solutions\3.13\invoice.h
+	<string>
+
